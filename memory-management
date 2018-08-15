@@ -1,1 +1,0 @@
-Simulation of FIFO, second-chance, random, not recently used (NRU), clock, and aging page replacement algorithms to map virtual addresses of multiple processes onto physical frames.
