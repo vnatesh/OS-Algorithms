@@ -1,0 +1,1 @@
+Simulation of a two-pass linker that performs relocation of external addresses and resolves external symbol references.
