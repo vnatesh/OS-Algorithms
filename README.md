@@ -1,3 +1,3 @@
 # OS-Algorithms
 
-Implementations of common operating systems algorithms in C.
+Implementations of core operating systems algorithms in C.
